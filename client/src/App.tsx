@@ -104,13 +104,13 @@ const App = () => {
                   </td>
                   <td
                     scope="row"
-                    className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                    className="px-6 py-4 font-medium whitespace-nowrap dark:text-white"
                   >
                     {producto.id}
                   </td>
-                  <td className="px-6 py-4">{producto.name}</td>
-                  <td className="px-6 py-4">{producto.costo}</td>
-                  <td className="px-6 py-4">{producto.precio}</td>
+                  <td className="px-6 py-4 text-gray-900">{producto.name}</td>
+                  <td className="px-6 py-4 text-gray-900">{producto.costo}</td>
+                  <td className="px-6 py-4 text-gray-900">{producto.precio}</td>
                 </tr>
               );
             })}
