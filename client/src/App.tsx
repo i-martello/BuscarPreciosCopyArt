@@ -14,7 +14,6 @@ interface productoType {
 const App = () => {
   const [productos, setProductos] = useState<productoType[]>([]);
   const [buscador, setBuscador] = useState<string>("");
-  
 
   useEffect(() => {
     (async () => {
@@ -27,9 +26,11 @@ const App = () => {
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     await axios
-        .get("https://buscador-copyart-api.vercel.app/api/v1/productos", { params: { search: buscador}})
-        .then((res) => setProductos(res.data.documentos));
-  }
+      .get("https://buscador-copyart-api.vercel.app/api/v1/productos", {
+        params: { search: buscador },
+      })
+      .then((res) => setProductos(res.data.documentos));
+  };
 
   return (
     <div>
@@ -62,7 +63,7 @@ const App = () => {
               className="block w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
               placeholder="Buscar"
               required
-              onChange={(e)=>setBuscador(e.target.value)}
+              onChange={(e) => setBuscador(e.target.value)}
             />
             <button
               type="submit"
@@ -77,6 +78,9 @@ const App = () => {
         <table className="w-full text-lg text-left text-gray-500 dark:text-gray-400">
           <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
             <tr>
+              <th scope="col" className="px-6 py-3">
+                Imagen
+              </th>
               <th scope="col" className="px-6 py-3">
                 Id
               </th>
@@ -95,6 +99,9 @@ const App = () => {
             {productos.map((producto) => {
               return (
                 <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+                  <td className="px-6 py-4">
+                    <img src={producto.imagen} alt={producto.name} />
+                  </td>
                   <td
                     scope="row"
                     className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
@@ -112,6 +119,6 @@ const App = () => {
       </div>
     </div>
   );
-}
+};
 
 export default App;
