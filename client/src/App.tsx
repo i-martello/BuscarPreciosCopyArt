@@ -18,10 +18,10 @@ const App = () => {
   useEffect(() => {
     (async () => {
       await axios
-        .get("https://buscador-copyart-api.vercel.app/api/v1/productos")
+        .get("https://buscador-copyart-api.vercel.app/api/v1/productos", {params: {search: buscador}})
         .then((res) => setProductos(res.data.documentos));
     })();
-  }, []);
+  }, [buscador]);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
