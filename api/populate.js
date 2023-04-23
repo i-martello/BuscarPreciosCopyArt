@@ -14,7 +14,7 @@ const productosTxt = fs.readFile(rutaProductos, 'utf-8', async (err, data)=>{
     arrayFields = item.split(/\t/)
     const imagen = arrayFields[0].replace('-','')
     await new productoSchema({
-      id: arrayFields[0], name: arrayFields[1], costo: arrayFields[2], precio: arrayFields[3], imagen: `https://www.papelerabariloche.com.ar/img/p/${imagen}/1.jpeg?quality=95&width=800&height=800&mode=max&upscale=false&format=webp`
+      id: arrayFields[0], name: arrayFields[1], unidades: arrayFields[2], costo: arrayFields[3], precio: arrayFields[4], imagen: `https://www.papelerabariloche.com.ar/img/p/${imagen}/1.jpeg?quality=95&width=800&height=800&mode=max&upscale=false&format=webp`
     }).save()
   }
 })
