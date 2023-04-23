@@ -6,7 +6,6 @@ interface productoType {
   _id: string;
   id: string;
   name: string;
-  unidades: string;
   costo: string;
   precio: string;
   imagen: string;
@@ -89,9 +88,6 @@ const App = () => {
                 Producto
               </th>
               <th scope="col" className="px-6 py-3">
-                Unidades
-              </th>
-              <th scope="col" className="px-6 py-3">
                 Costo
               </th>
               <th scope="col" className="px-6 py-3">
@@ -113,7 +109,6 @@ const App = () => {
                     {producto.id}
                   </td>
                   <td className="px-6 py-4 text-gray-900">{producto.name}</td>
-                  <td className="px-6 py-4 text-gray-900">{producto.unidades}</td>
                   <td className="px-6 py-4 text-gray-900">{producto.costo}</td>
                   <td className="px-6 py-4 font-bold text-gray-900">{producto.precio}</td>
                 </tr>
