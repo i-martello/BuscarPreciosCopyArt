@@ -99,8 +99,8 @@ const App = () => {
             {productos.map((producto) => {
               return (
                 <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                  <td className="px-6 py-4">
-                    <img src={producto.imagen} alt={producto.name} />
+                  <td className="px-6 py-4 w-[100px] h-[100px]">
+                    <img className="w-full h-full" src={producto.imagen} alt={producto.name} />
                   </td>
                   <td
                     scope="row"
