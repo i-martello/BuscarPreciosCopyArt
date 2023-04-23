@@ -110,7 +110,7 @@ const App = () => {
                   </td>
                   <td className="px-6 py-4 text-gray-900">{producto.name}</td>
                   <td className="px-6 py-4 text-gray-900">{producto.costo}</td>
-                  <td className="px-6 py-4 text-gray-900">{producto.precio}</td>
+                  <td className="px-6 py-4 font-bold text-gray-900">{producto.precio}</td>
                 </tr>
               );
             })}
