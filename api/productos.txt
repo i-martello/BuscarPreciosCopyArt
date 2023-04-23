@@ -1,9 +1,9 @@
 151-475	Abrochadora Maped essentials pocket metal Nº 10	1	$975.41	$1463
 151-472	Abrochadora Maped mini essentials metal Nº 10	1	$570.9	$856
 113-036	Abrochadora Mit brief	1	$801.3	$1202
-068-003	Acrílico decorativo Acuarel 60 ml 1040- negro	1	$210.02	$315
-070-095	Acrílico decorativo Artística Dibu AD 60 ml 010-blanco titanio	6	$210.39	$316
-020-011	Acrílico decorativo Eterna 50 ml 011-amarillo medio	1	$206.76	$310
+068-003	Acrilico decorativo Acuarel 60 ml 1040- negro	1	$210.02	$315
+070-095	Acrilico decorativo Artistica Dibu AD 60 ml 010-blanco titanio	6	$210.39	$316
+020-011	Acrilico decorativo Eterna 50 ml 011-amarillo medio	1	$206.76	$310
 040-982	Acuarela Ezco blister 12 colores + pincel	1	$275.29	$413
 069-902	Acuarela Trabi tapa acrilica x12 + pincel	1	$760.79	$1141
 192-301	AD-Astra boleto de compra venta automotor en cuota 7300 s	1	$1202.68	$1804
@@ -14,12 +14,12 @@
 183-212	Adhesivo barra Volibarra 22 gramos	1	$318	$477
 134-821	Adhesivo transparente plastigoma 30 ml	8	$110.76	$166
 183-177	Adhesivo Unipox 25 ml pegamento universal	1	$287.81	$432
-118-103	Adhesivo vinílico STA cola x 100 gramos	12	$169.05	$254
-118-106	Adhesivo vinílico STA cola x 1000 gramos	1	$1227.3	$1841
-118-104	Adhesivo vinílico STA cola x 250 gramos	1	$331.46	$497
-118-101	Adhesivo vinílico STA cola x 30 gramos	48	$50.64	$76
-118-102	Adhesivo vinílico STA cola x 50 gramos	24	$90.73	$136
-118-105	Adhesivo vinílico STA cola x 500 gramos	1	$621.56	$932
+118-103	Adhesivo vinilico STA cola x 100 gramos	12	$169.05	$254
+118-106	Adhesivo vinilico STA cola x 1000 gramos	1	$1227.3	$1841
+118-104	Adhesivo vinilico STA cola x 250 gramos	1	$331.46	$497
+118-101	Adhesivo vinilico STA cola x 30 gramos	48	$50.64	$76
+118-102	Adhesivo vinilico STA cola x 50 gramos	24	$90.73	$136
+118-105	Adhesivo vinilico STA cola x 500 gramos	1	$621.56	$932
 183-200	Adhesivo Voligoma 30 ml	12	$189.79	$285
 183-205	Adhesivo Voligoma 50 ml	12	$308.51	$463
 181-100	Almohadilla Pagoda Nº 1	1	$441.41	$662
@@ -32,8 +32,8 @@
 166-320	Aprieta papel niquelado Sifap 40 mm c/u	1	$124.81	$187
 166-321	Aprieta papel niquelado Sifap 50 mm c/u	1	$147.68	$222
 166-322	Aprieta papel niquelado Sifap 75 mm c/u	1	$201.03	$302
-166-050	Arandela de cartón Sifap x 100u	1	$283.09	$425
-128-115	Arandelas de cartón caja x 500 unidades	1	$645.47	$968
+166-050	Arandela de carton Sifap x 100u	1	$283.09	$425
+128-115	Arandelas de carton caja x 500 unidades	1	$645.47	$968
 166-335	Aros articulados Sifap 35 mm x 100 unidades	1	$3755.72	$5634
 166-336	Aros articulados Sifap 40 mm x 100 unidades	1	$4284.05	$6426
 166-337	Aros articulados Sifap 50 mm x 50 unidades	1	$2397.87	$3597
@@ -44,14 +44,14 @@
 039-200	Autoadhesivo Lama transparente rollo x 10 metros	1	$3183.07	$4775
 039-200	Autoadhesivo Lama transparente rollo x 10 metros	1	$3183.07	$4775
 039-200	Autoadhesivo Lama transparente rollo x 10 metros	1	$3183.07	$4775
-040-632	Bandas elásticas Ezco 50 gramos bolsa	1	$175.51	$263
-055-918	Bandas elásticas Flexibands 100 gramos	1	$224.32	$336
-055-920	Bandas elásticas Flexibands 250 gramos	1	$594.97	$892
-055-915	Bandas elásticas Flexibands 50 gramos	1	$141.74	$213
-055-925	Bandas elásticas Flexibands 500 gramos	1	$1009.67	$1515
-055-948	Bandas elásticas Super Bands 500 gramos ancha diametro 100	1	$1162.34	$1744
+040-632	Bandas elasticas Ezco 50 gramos bolsa	1	$175.51	$263
+055-918	Bandas elasticas Flexibands 100 gramos	1	$224.32	$336
+055-920	Bandas elasticas Flexibands 250 gramos	1	$594.97	$892
+055-915	Bandas elasticas Flexibands 50 gramos	1	$141.74	$213
+055-925	Bandas elasticas Flexibands 500 gramos	1	$1009.67	$1515
+055-948	Bandas elasticas Super Bands 500 gramos ancha diametro 100	1	$1162.34	$1744
 131-283	Banderitas plasticas adhesivas Stick´n 21401 x 8 colores neon	1	$515.82	$774
-196-087	Barniz acrílico Artística Dibu AD brillante 100 ml	1	$377.51	$566
+196-087	Barniz acrilico Artistica Dibu AD brillante 100 ml	1	$377.51	$566
 138-020	Barra silicona abs fina larga blister x10	1	$941	$1412
 040-785	Barra silicona Ezco fina larga 30cms paquete x 1kg para pistola	1	$4001.3	$6002
 136-000	Bibliorato A4 carpeta forrado azul Avios	1	$1418.42	$2128
@@ -63,12 +63,12 @@
 166-313	Binder negro Sifap 32 mm x docena	1	$476.8	$715
 166-314	Binder negro Sifap 41 mm x docena	1	$791.81	$1188
 166-315	Binder negro Sifap 51 mm x docena	1	$1186.72	$1780
-125-364	Block anotador Éxito 16 x 21 48 hojas rayado	8	$324.3	$486
+125-364	Block anotador Exito 16 x 21 48 hojas rayado	8	$324.3	$486
 125-399	Block Avon A4 perforado rayado x 80 hs	10	$574.87	$862
 125-426	Block Avon borrador liso A4 x 80 hs	10	$574.87	$862
 125-404	Block Avon oficio perforado rayado x 80 hs	10	$673.21	$1010
-125-005	Block dibujo Éxito Nº 5 blanco 24 hs	10	$526.79	$790
-125-006	Block dibujo Éxito Nº 5 color 24 hs	10	$740.64	$1111
+125-005	Block dibujo Exito Nº 5 blanco 24 hs	10	$526.79	$790
+125-006	Block dibujo Exito Nº 5 color 24 hs	10	$740.64	$1111
 055-973	Block dibujo Luma blanco Nº 5 20 hs	5	$437.54	$656
 055-978	Block dibujo Luma blanco Nº 6 20 hs	1	$735.41	$1103
 055-974	Block dibujo Luma color Nº 5 24 hs	5	$636.21	$954
@@ -81,32 +81,32 @@
 058-501	Block espiral Alfa A4 80 hojas rayado	5	$831.69	$1248
 058-511	Block espiral Alfa A5 80 hojas rayado	5	$497.62	$746
 058-521	Block espiral Alfa A6 80 hojas rayado	5	$315.5	$473
-193-335	Block Húsares bussines A4 80 hojas cuadriculado puntillado	5	$775.15	$1163
-141-011	Bolígrafo Bic 1 mm azul	50	$106.1	$159
-141-021	Bolígrafo Bic cristal azul	50	$106.1	$159
-141-141	Bolígrafo Bic cristal fina 08 azul	50	$122.04	$183
-141-030	Bolígrafo Bic cristal intenso 1,6 azul	25	$137.96	$207
-141-121	Bolígrafo Bic cristal ultra fina 0,7 mm azul	25	$137.95	$207
-141-093	Bolígrafo Bic fashion lila	25	$106.13	$159
-134-586	Bolígrafo Faber-Castell trilux 032 m azul c/u	50	$82.97	$124
-034-560	Bolígrafo Filgo ginza 027 retractil azul	36	$145.31	$218
-034-561	Bolígrafo Filgo ginza 027 retractil negro	36	$145.31	$218
-034-540	Bolígrafo Filgo retráctil fast grip azul	36	$124.24	$186
-165-081	Bolígrafo Paper Mate kilométrico 100 azul con inkjoy	50	$65.53	$98
-165-085	Bolígrafo Paper Mate kilométrico 100 fucsia con inkjoy	12	$65.53	$98
-165-091	Bolígrafo Paper Mate kilométrico 100 retráctil azul con inkjoy	12	$98.43	$148
-165-092	Bolígrafo Paper Mate kilométrico 100 retráctil negro con inkjoy	12	$98.43	$148
-165-086	Bolígrafo Paper Mate kilométrico 100 turquesa con inkjoy	12	$65.53	$98
-120-381	Bolígrafo Pelikan tango azul	12	$98.58	$148
-041-880	Bolígrafo Simball city retractil azul	30	$175.83	$264
+193-335	Block Husares bussines A4 80 hojas cuadriculado puntillado	5	$775.15	$1163
+141-011	Boligrafo Bic 1 mm azul	50	$106.1	$159
+141-021	Boligrafo Bic cristal azul	50	$106.1	$159
+141-141	Boligrafo Bic cristal fina 08 azul	50	$122.04	$183
+141-030	Boligrafo Bic cristal intenso 1,6 azul	25	$137.96	$207
+141-121	Boligrafo Bic cristal ultra fina 0,7 mm azul	25	$137.95	$207
+141-093	Boligrafo Bic fashion lila	25	$106.13	$159
+134-586	Boligrafo Faber-Castell trilux 032 m azul c/u	50	$82.97	$124
+034-560	Boligrafo Filgo ginza 027 retractil azul	36	$145.31	$218
+034-561	Boligrafo Filgo ginza 027 retractil negro	36	$145.31	$218
+034-540	Boligrafo Filgo retractil fast grip azul	36	$124.24	$186
+165-081	Boligrafo Paper Mate kilometrico 100 azul con inkjoy	50	$65.53	$98
+165-085	Boligrafo Paper Mate kilometrico 100 fucsia con inkjoy	12	$65.53	$98
+165-091	Boligrafo Paper Mate kilometrico 100 retractil azul con inkjoy	12	$98.43	$148
+165-092	Boligrafo Paper Mate kilometrico 100 retractil negro con inkjoy	12	$98.43	$148
+165-086	Boligrafo Paper Mate kilometrico 100 turquesa con inkjoy	12	$65.53	$98
+120-381	Boligrafo Pelikan tango azul	12	$98.58	$148
+041-880	Boligrafo Simball city retractil azul	30	$175.83	$264
 085-010	Borrador para pizarra blanca con repuesto y portamarcador	1	$267.95	$402
 166-040	Borrador para pizarra Sifap eco	1	$494.85	$742
-145-111	Borrador para pizarrón grande	1	$319.45	$479
-145-110	Borrador para pizarrón mediano	1	$221.72	$333
-196-560	Brillantina gibre Artística Dibu AD azul celeste tubo 3 gramos	6	$195.97	$294
+145-111	Borrador para pizarron grande	1	$319.45	$479
+145-110	Borrador para pizarron mediano	1	$221.72	$333
+196-560	Brillantina gibre Artistica Dibu AD azul celeste tubo 3 gramos	6	$195.97	$294
 088-116	Brillantina multicolor s/5 gramos	5	$45.87	$69
 088-100	Brillantina surtida caja x 100	1	$4588.34	$6883
-198-147	Broche tipo Nepaco plástico caja 50 unidades	1	$596.08	$894
+198-147	Broche tipo Nepaco plastico caja 50 unidades	1	$596.08	$894
 133-006	Broches 2 puntas 6 caja x 100	1	$416.59	$625
 133-007	Broches 2 puntas 7 caja x 100	1	$483.79	$726
 133-008	Broches 2 puntas 8 caja x 100	1	$510.51	$766
@@ -128,12 +128,12 @@
 113-072	Broches Mit 50 x 1000 unidades	1	$245	$368
 113-074	Broches Mit 50 x 5000 unidades	1	$1128.29	$1692
 113-067	Broches Mit 64 x 1000 unidades	1	$227.9	$342
-178-781	Caja archivo plástica con elástico Rideo 1/2 oficio lomo 2,5 cm	1	$312.41	$469
-178-778	Caja archivo plástica con elástico Rideo A4 lomo 2 cm	1	$612.56	$919
-178-779	Caja archivo plástica con elástico Rideo A4 lomo 4 cm	1	$679.95	$1020
-178-792	Caja archivo plástica con elástico Rideo oficio lomo 2 cm	1	$679.95	$1020
-178-794	Caja archivo plástica con elástico Rideo oficio lomo 4 cm	1	$716.7	$1075
-178-795	Caja archivo plástica con elástico Rideo oficio lomo 5 cm	1	$759.58	$1139
+178-781	Caja archivo plastica con elastico Rideo 1/2 oficio lomo 2,5 cm	1	$312.41	$469
+178-778	Caja archivo plastica con elastico Rideo A4 lomo 2 cm	1	$612.56	$919
+178-779	Caja archivo plastica con elastico Rideo A4 lomo 4 cm	1	$679.95	$1020
+178-792	Caja archivo plastica con elastico Rideo oficio lomo 2 cm	1	$679.95	$1020
+178-794	Caja archivo plastica con elastico Rideo oficio lomo 4 cm	1	$716.7	$1075
+178-795	Caja archivo plastica con elastico Rideo oficio lomo 5 cm	1	$759.58	$1139
 067-020	Carbonico Carbotype neg c x50	1	$10060.5	$15091
 120-167	Carbonico Pelikan handifilm x 50 hs azul	1	$18960.65	$28441
 157-201	Carbonilla nr- Nº 1 paquete x 10	1	$331.18	$497
@@ -144,10 +144,10 @@
 178-834	Carpeta 3 anillos redondos 40 mm Rideo matt Pastel Bb ART 2801/1	1	$914.76	$1372
 178-835	Carpeta 3 anillos redondos 40 mm Rideo transparente ART2101	1	$851.24	$1277
 136-220	Carpeta 3 anillos redondos 40 mm transparente Avios azul	1	$784.9	$1177
-178-886	Carpeta 3 solapas con elástico 1/2 oficio Rideo transparente ART0161	1	$281.78	$423
-178-887	Carpeta 3 solapas con elástico doble oficio Rideo transparente ART0164	1	$1139.37	$1709
-178-885	Carpeta 3 solapas con elástico oficio Rideo transparente ART0163	1	$465.55	$698
-178-884	Carpeta 3 solapas con elástico Rideo A4 transparente ART0162	1	$453.3	$680
+178-886	Carpeta 3 solapas con elastico 1/2 oficio Rideo transparente ART0161	1	$281.78	$423
+178-887	Carpeta 3 solapas con elastico doble oficio Rideo transparente ART0164	1	$1139.37	$1709
+178-885	Carpeta 3 solapas con elastico oficio Rideo transparente ART0163	1	$465.55	$698
+178-884	Carpeta 3 solapas con elastico Rideo A4 transparente ART0162	1	$453.3	$680
 136-122	Carpeta A4 2 anillos redondos 40 mm forrada azul	1	$1114.11	$1671
 178-880	Carpeta A4 2 anillos redondos 40 mm Rideo transparente ART2104	1	$1016.86	$1525
 024-271	Carpeta base opaca A4 Lama	12	$156.49	$235
@@ -175,21 +175,21 @@
 136-990	Carpeta fibra negra Avios 3 x 40 mm	1	$598.95	$898
 136-993	Carpeta fibra negra Avios A4 2 x 40 mm	1	$718.74	$1078
 052-202	Carpeta fibra negra esquelita 2 anillos redondos 30 mm	1	$125.66	$188
-024-304	Carpeta kismet -a4 plástica	1	$783.52	$1175
-024-305	Carpeta kismet oficio plástica	1	$875.17	$1313
-178-850	Carpeta Nº 3 plástico Rideo transparente ART2103	1	$406.56	$610
-178-864	Carpeta Nº 5 plástico Rideo entelada ART2509	1	$705.13	$1058
-178-860	Carpeta Nº 5 plástico Rideo transparente ART2109	1	$705.13	$1058
-024-174	Carpeta plástica -l- A4 transparente ch310	12	$100.37	$151
-150-797	Carpeta plastificada oficio 3 solapas con elástico amarillo	10	$387.79	$582
-066-245	Carpeta presentación Ape A4 f/55 verde 2 solapas	25	$117.59	$176
+024-304	Carpeta kismet -a4 plastica	1	$783.52	$1175
+024-305	Carpeta kismet oficio plastica	1	$875.17	$1313
+178-850	Carpeta Nº 3 plastico Rideo transparente ART2103	1	$406.56	$610
+178-864	Carpeta Nº 5 plastico Rideo entelada ART2509	1	$705.13	$1058
+178-860	Carpeta Nº 5 plastico Rideo transparente ART2109	1	$705.13	$1058
+024-174	Carpeta plastica -l- A4 transparente ch310	12	$100.37	$151
+150-797	Carpeta plastificada oficio 3 solapas con elastico amarillo	10	$387.79	$582
+066-245	Carpeta presentacion Ape A4 f/55 verde 2 solapas	25	$117.59	$176
 024-327	Carpeta sujetador clip A4 Lama e-18	1	$274.9	$412
 150-111	Carpeta tipo presphan plastificada doble oficio	10	$756.07	$1134
-150-110	Carpeta tipo presphan plastificada oficio 3 solapas con elástio	20	$255.82	$384
-105-088	Cartón microcorrugado azul 50 x 70	10	$287.77	$432
-105-541	Cartón montado estudiantil 35 x 50 blanco	10	$241.15	$362
-105-501	Cartón passe-partout estudiantil 35 x 50 blanco	10	$205.77	$309
-105-502	Cartón passe-partout estudiantil 50 x 70 blanco	10	$491.95	$738
+150-110	Carpeta tipo presphan plastificada oficio 3 solapas con elastio	20	$255.82	$384
+105-088	Carton microcorrugado azul 50 x 70	10	$287.77	$432
+105-541	Carton montado estudiantil 35 x 50 blanco	10	$241.15	$362
+105-501	Carton passe-partout estudiantil 35 x 50 blanco	10	$205.77	$309
+105-502	Carton passe-partout estudiantil 50 x 70 blanco	10	$491.95	$738
 034-730	Cartucho europeo Filgo x6 flowpack	1	$173.42	$260
 120-027	Cartucho Pelikan para roller grand prix azul x 5 unidades	1	$206.72	$310
 108-951	Cartulina Luma blanca	20	$58.73	$88
@@ -198,7 +198,7 @@
 137-200	Cartulina Luma metalizada 61 x 45 oro	10	$195.06	$293
 108-955	Cartulina Luma negro	20	$79.22	$119
 033-906	Cartulina Mil28 azul	10	$92.03	$138
-166-951	Chinche señalador galera Sifap bolsa x 50 unidades	1	$367.76	$552
+166-951	Chinche senalador galera Sifap bolsa x 50 unidades	1	$367.76	$552
 119-500	Chinches Sifap x 100 unidades	1	$169.56	$254
 119-425	Chinches Sifap x 25 unidades	1	$71.1	$107
 073-680	Cinta adhesiva 12 x 10 Stiko doble faz transparente	1	$367.6	$551
@@ -225,9 +225,9 @@
 073-710	Cinta embalaje 48 x 50 Stiko transparente	1	$405	$608
 083-110	Cinta embalaje Rapifix transparente 48 mm x 100 metros	1	$725.55	$1088
 152-210	Cinta montaje bifaz rollo 18 mm x 5 metros	1	$1101.6	$1652
-024-200	Clasificador plástico 12 div A4 con elástico	1	$1546.43	$2320
-024-205	Clasificador plástico 12 div oficio con elástico	1	$1730.02	$2595
-024-210	Clasificador plástico cheque con elástico	1	$1038	$1557
+024-200	Clasificador plastico 12 div A4 con elastico	1	$1546.43	$2320
+024-205	Clasificador plastico 12 div oficio con elastico	1	$1730.02	$2595
+024-210	Clasificador plastico cheque con elastico	1	$1038	$1557
 151-292	Compas Maped kid' z	1	$247.09	$371
 151-293	Compas Maped kid' z c/abrazadera	1	$247.42	$371
 151-260	Compas Maped study 160 5 p	1	$902.37	$1354
@@ -252,45 +252,45 @@
 041-742	Crayones Simball x 12 cortas	1	$369.45	$554
 182-501	Crealina pan de 300 gramos	1	$262.84	$394
 125-751	Cuadernillos Mil28 oficio cuadriculado	1	$144.8	$217
-122-326	Cuaderno 16 x 21 América colección 80 hojas rayado espiral	10	$470.01	$705
+122-326	Cuaderno 16 x 21 America coleccion 80 hojas rayado espiral	10	$470.01	$705
 125-098	Cuaderno 16 x 21 Avon 46 hojas rayado espiral	20	$272.63	$409
 125-101	Cuaderno 16 x 21 Avon 84 hojas rayado espiral	10	$483.01	$725
 122-213	Cuaderno 19 x 23,5 Rivadavia abc 98 hs liso cosido tapa dura	5	$1634.19	$2451
-122-146	Cuaderno 19 x 23,5 Rivadavia abc araña amarillo 50 hojas rayado cosido tapa dura	5	$1185.51	$1778
+122-146	Cuaderno 19 x 23,5 Rivadavia abc arana amarillo 50 hojas rayado cosido tapa dura	5	$1185.51	$1778
 122-217	Cuaderno 21 x 27 Rivadavia abc 100 hojas rayado espiral tapa dura	5	$2051.1	$3077
 122-215	Cuaderno 21 x 27 Rivadavia abc 60 hojas rayado espiral tapa dura	5	$1523.49	$2285
-122-321	Cuaderno 29,7 América colección 80 hojas cuadriculado	10	$566.17	$849
+122-321	Cuaderno 29,7 America coleccion 80 hojas cuadriculado	10	$566.17	$849
 122-246	Cuaderno 29,7 Mis Apuntes travel 150 hs cuadriculado	1	$1480.58	$2221
 125-433	Cuaderno Avon 29,7 tapa flexible 84 hs espiral rayado	10	$548.13	$822
 145-685	Cuaderno de caligrafia nª 1 inicial Plantec ART9951	1	$722.53	$1084
-125-680	Cuaderno epica Nº 3 araña tapa dura 48 hojas cuadriculado azul	8	$875.68	$1314
-125-516	Cuaderno Éxito 21 x 27 colegial espiral tapa dura 60 hs cuadriculado	5	$1408.44	$2113
-125-466	Cuaderno Éxito Nº 3 universo tapa dura 48 hojas rayado amarillo	8	$1101.1	$1652
-125-145	Cuaderno Éxito universo tapa dura 100 hojas rayado azul	5	$1402.39	$2104
-125-123	Cuaderno Éxito universo tapa dura 48 hs cuadriculado azul	8	$902.66	$1354
-125-052	Cuaderno Gloria araña tapa dura 42 hojas rayado amarillo	1	$402.48	$604
-125-074	Cuaderno Gloria araña tapa dura 84 hojas rayado rojo	10	$579.6	$869
+125-680	Cuaderno epica Nº 3 arana tapa dura 48 hojas cuadriculado azul	8	$875.68	$1314
+125-516	Cuaderno Exito 21 x 27 colegial espiral tapa dura 60 hs cuadriculado	5	$1408.44	$2113
+125-466	Cuaderno Exito Nº 3 universo tapa dura 48 hojas rayado amarillo	8	$1101.1	$1652
+125-145	Cuaderno Exito universo tapa dura 100 hojas rayado azul	5	$1402.39	$2104
+125-123	Cuaderno Exito universo tapa dura 48 hs cuadriculado azul	8	$902.66	$1354
+125-052	Cuaderno Gloria arana tapa dura 42 hojas rayado amarillo	1	$402.48	$604
+125-074	Cuaderno Gloria arana tapa dura 84 hojas rayado rojo	10	$579.6	$869
 125-021	Cuaderno Gloria tapa flexible 24 hojas rayado	25	$103.72	$156
 125-025	Cuaderno Gloria tapa flexible 48 hs cuadriculado	15	$166.77	$250
 125-028	Cuaderno Gloria tapa flexible 84 hs cuadriculado	10	$279.12	$419
-111-068	Cuaderno Laprida araña amarillo tapa dura 50 hojas rayado	5	$850.11	$1275
+111-068	Cuaderno Laprida arana amarillo tapa dura 50 hojas rayado	5	$850.11	$1275
 125-541	Cuaderno Ledesma 16 x 21 classic espiral tapa dura 120 hs cuadriculado	4	$2005.67	$3009
-125-548	Cuaderno Ledesma 16 x 21 colección tapa dura 84 hs liso espiral	4	$1240.7	$1861
+125-548	Cuaderno Ledesma 16 x 21 coleccion tapa dura 84 hs liso espiral	4	$1240.7	$1861
 125-544	Cuaderno Ledesma 16 x 21 essencial tipo pvc 120 hojas rayado espiral	4	$1876.99	$2815
 125-571	Cuaderno Ledesma 29,7 classic tapa dura 84 hs cuadriculado espiral	5	$1159.59	$1739
 125-587	Cuaderno Ledesma 29,7 essential tipo pvc 84 hs liso espiral	5	$1159.59	$1739
 125-560	Cuaderno Ledesma 29,7 executive tapa dura 84 hojas rayado espiral	5	$1390.57	$2086
-125-598	Cuaderno Ledesma 29,7 línea 16 tapa flexible 84 hs cuadriculado espiral	5	$588.06	$882
-122-119	Cuaderno Rivadavia araña tapa dura 50 hojas rayado amarillo	5	$972.66	$1459
-122-123	Cuaderno Rivadavia araña tapa dura 98 hojas rayado rojo	5	$1514.46	$2272
+125-598	Cuaderno Ledesma 29,7 linea 16 tapa flexible 84 hs cuadriculado espiral	5	$588.06	$882
+122-119	Cuaderno Rivadavia arana tapa dura 50 hojas rayado amarillo	5	$972.66	$1459
+122-123	Cuaderno Rivadavia arana tapa dura 98 hojas rayado rojo	5	$1514.46	$2272
 069-910	Detector de billetes Trabi pesos/dolares	1	$214.97	$322
 122-891	Diccionario escolar Laprida	1	$1013.07	$1520
 064-830	Diccionario escolar magistral	1	$1123.85	$1686
 122-890	Diccionario escolar Rivadavia	1	$1930.03	$2895
 143-170	Escalimetro Pizzini 170/1	1	$836.32	$1254
 151-627	Escuadra Maped eco 21 cm x 60	1	$111.96	$168
-143-722	Escuadra Pizzini acrílica escolar 20 x 45 cm	5	$136.16	$204
-143-727	Escuadra Pizzini acrílica escolar 30 x 45 cm	10	$390.93	$586
+143-722	Escuadra Pizzini acrilica escolar 20 x 45 cm	5	$136.16	$204
+143-727	Escuadra Pizzini acrilica escolar 30 x 45 cm	10	$390.93	$586
 153-660	Etidata 8750 laser+ink-jet A4 210 x 297 mm 1b 25 unidades	1	$2451.53	$3677
 153-031	Etiqueta Pegasola 3031 caja x 240	1	$715.65	$1073
 153-432	Etiqueta Pegasola fluo 15 x 50 mm amarillo	1	$1666.9	$2500
@@ -316,11 +316,11 @@
 126-120	Goma eva 40 x 60 piel	10	$151.12	$227
 138-453	Goma eva 40 x 60 rosa Pastel	1	$145.35	$218
 126-260	Goma eva glitter 40 x 60 amarillo c/u	10	$265.17	$398
-134-157	Goma Faber-Castell 7086 caja x 30 lápiz	1	$3175.29	$4763
+134-157	Goma Faber-Castell 7086 caja x 30 lapiz	1	$3175.29	$4763
 151-426	Goma Maped essential x 40	1	$2034.93	$3052
 151-392	Goma Maped technic 300 mini x 36 unidades	1	$2238.4	$3358
 151-391	Goma Maped technic duo x 36 unidades	1	$3609.28	$5414
-041-320	Goma Staedtler 526 x30 lápiz	1	$5009.58	$7514
+041-320	Goma Staedtler 526 x30 lapiz	1	$5009.58	$7514
 101-103	Identificacion bolsil/plas 60 x 90	50	$18.13	$27
 024-600	Identificacion broche c/tarjeta y alf 55 x 95 mm	50	$55.97	$84
 151-623	Kit Maped eco 3 piezas	1	$203.11	$305
@@ -332,11 +332,11 @@
 081-103	Lapices de colores Giotto stilnovo 3,3 mm x12 largos	1	$996.56	$1495
 151-933	Lapices de colores Maped color peps x 12 cortos	1	$139.94	$210
 151-935	Lapices de colores Maped color peps x 12 largos strong	1	$536.16	$804
-134-309	Lápiz goldfaber 2b doc	1	$2783.24	$4175
-141-680	Lápiz grafito hb Bic evolution docena	1	$818.17	$1227
-134-026	Lápiz grafito hb Faber-Castell 1205 ecolapiz Nº 2 docena	1	$618.9	$928
-115-242	Lápiz Staedtler Noris Nº 2 hb docena	1	$3034.26	$4551
-115-254	Lápiz Staedtler Tradition 2 b docena	1	$4115.77	$6174
+134-309	Lapiz goldfaber 2b doc	1	$2783.24	$4175
+141-680	Lapiz grafito hb Bic evolution docena	1	$818.17	$1227
+134-026	Lapiz grafito hb Faber-Castell 1205 ecolapiz Nº 2 docena	1	$618.9	$928
+115-242	Lapiz Staedtler Noris Nº 2 hb docena	1	$3034.26	$4551
+115-254	Lapiz Staedtler Tradition 2 b docena	1	$4115.77	$6174
 148-010	Libreta Norte 4010 esp/40 hojas rayado x 10 unidades	1	$1368.01	$2052
 148-402	Libreta Norte 402 40 hojas rayado x 10 unidades	1	$2054.71	$3082
 148-020	Libreta Norte 4020 esp/40 hojas rayado x 10 unidades	1	$1857.66	$2786
@@ -354,10 +354,10 @@
 148-190	Libreta Norte 7090 esp/70 hojas rayado x 10 unidades	1	$5113.76	$7671
 062-663	Libro para colorear mandalas para pintar 48 paginas armonia	1	$857.59	$1286
 077-236	Libro Rab acta especial 2manos t/negra ART2224/l	1	$1820.22	$2730
-058-760	Mapa Alfa Nº 5 planisferio físico político	1	$566.82	$850
+058-760	Mapa Alfa Nº 5 planisferio fisico politico	1	$566.82	$850
 122-357	Mapa Rivadavia Nº 3 continente americano	1	$585.31	$878
-122-504	Mapa Rivadavia Nº 5 América Central y Antillas	1	$585.31	$878
-122-576	Mapa Rivadavia Nº 6 físico político Africa	1	$2499.29	$3749
+122-504	Mapa Rivadavia Nº 5 America Central y Antillas	1	$585.31	$878
+122-576	Mapa Rivadavia Nº 6 fisico politico Africa	1	$2499.29	$3749
 102-035	Marcador Edding 1200 punta fina amarillo	1	$178.48	$268
 102-142	Marcador Edding 404 permanente punta 0,75 mm azul	1	$336.34	$505
 102-230	Marcador Edding 8400 p/cd permanente punta 1 mm negro	1	$525.45	$788
@@ -396,12 +396,12 @@
 143-197	Minas Pizzini 0,7 hb	12	$207.85	$312
 143-204	Minas Pizzini 2 mm b tubo x 6	1	$636.99	$955
 128-152	Mojadedo goma Nº 2	1	$546.53	$820
-166-870	Mojadedo Sifap plástico en caja	1	$444.32	$666
+166-870	Mojadedo Sifap plastico en caja	1	$444.32	$666
 030-955	Palitos de madera color x 50 unidades	1	$226.04	$339
 030-950	Palitos de madera helado x 50 unidades	1	$236.47	$355
 109-060	Papel afiche Luma amarillo	20	$139.86	$210
 109-052	Papel afiche Luma rojo	20	$139.86	$210
-109-306	Papel araña amarillo	20	$161.27	$242
+109-306	Papel arana amarillo	20	$161.27	$242
 169-001	Papel barrilete/seda amarillo	50	$36.78	$55
 145-922	Papel calco Schoeller 60/65 gramos 500 x 700 paquete x 20 hs	1	$2394.54	$3592
 120-155	Papel carbon Pelikan 1010 oficio negro 100 hojas	1	$3396.16	$5094
@@ -414,8 +414,8 @@
 026-307	Papel fotografico Office A4 glossy 160 gramos x 100 hojas	1	$3442.26	$5163
 026-309	Papel fotografico Office A4 glossy 200 gramos x 20 hojas	1	$1022.99	$1534
 026-311	Papel fotografico Office A4 glossy 230 gramos x 20 hojas	1	$1082.9	$1624
-193-033	Papel Húsares design A4 7858 150 gramos x 100 hs	1	$1667.31	$2501
-193-032	Papel Húsares design A4 7880 120 gramos x 100 hs	1	$1288.24	$1932
+193-033	Papel Husares design A4 7858 150 gramos x 100 hs	1	$1667.31	$2501
+193-032	Papel Husares design A4 7880 120 gramos x 100 hs	1	$1288.24	$1932
 105-630	Papel ilustracion brillante A4 115 gramos 25 hs	1	$872.89	$1309
 105-631	Papel ilustracion brillante A4 145 gramos 25 hs	1	$1156.88	$1735
 105-632	Papel ilustracion brillante A4 210 gramos 25 hs	1	$1610.8	$2416
@@ -445,7 +445,7 @@
 134-114	Pinturitas cera Faber-Castell x12 col	1	$438.61	$658
 166-981	Placa con aprieta papel acrilica A4	1	$1932.01	$2898
 166-982	Placa con aprieta papel acrilica oficio	1	$2203.3	$3305
-085-050	Placa con aprieta papel acrílico Martiz A4	1	$903.28	$1355
+085-050	Placa con aprieta papel acrilico Martiz A4	1	$903.28	$1355
 083-856	Placa con aprieta papel fibrofacil A4	1	$526.2	$789
 134-809	Plasticola brillo 38 gramos azul	1	$199.18	$299
 134-844	Plasticola color x 40 gramos amarillo	1	$179.53	$269
@@ -468,7 +468,7 @@
 121-002	Plastilina Model x 24 amarillo	1	$774.75	$1162
 029-120	Porcelana fria Delarte x 250 gramos	1	$243.72	$366
 029-121	Porcelana fria Delarte x 500 gramos	1	$477.31	$716
-085-200	Portalaminas plástico	1	$682.13	$1023
+085-200	Portalaminas plastico	1	$682.13	$1023
 034-252	Portaminas Filgo realgrip 0,5	1	$153.44	$230
 034-272	Portaminas h-207 0,7 mm	1	$413.66	$620
 143-120	Portaminas Pizzini punta fija 0,5 mm ART1431f	1	$773.47	$1160
@@ -490,38 +490,38 @@
 151-631	Regla Maped twist´n pulse 15 cm	1	$166.02	$249
 151-629	Regla Maped twist´n pulse 20 cm	1	$151.17	$227
 151-630	Regla Maped twist´n pulse 30 cm	1	$268.47	$403
-143-711	Regla Pizzini acrílica escolar x 15 cm ART1712	5	$64.08	$96
-143-712	Regla Pizzini acrílica escolar x 20 cm ART1712	10	$71.46	$107
-143-713	Regla Pizzini acrílica escolar x 30 cm ART1712	10	$108.82	$163
-143-733	Regla Pizzini acrílica técnica x 30 cm	1	$326.23	$489
-143-734	Regla Pizzini acrílica técnica x 40 cm	1	$545.13	$818
-143-735	Regla Pizzini acrílica técnica x 50 cm	1	$770.19	$1155
+143-711	Regla Pizzini acrilica escolar x 15 cm ART1712	5	$64.08	$96
+143-712	Regla Pizzini acrilica escolar x 20 cm ART1712	10	$71.46	$107
+143-713	Regla Pizzini acrilica escolar x 30 cm ART1712	10	$108.82	$163
+143-733	Regla Pizzini acrilica tecnica x 30 cm	1	$326.23	$489
+143-734	Regla Pizzini acrilica tecnica x 40 cm	1	$545.13	$818
+143-735	Regla Pizzini acrilica tecnica x 50 cm	1	$770.19	$1155
 033-853	Repuesto dibujo blanco Mil28 Nº 3	25	$112.07	$168
 033-855	Repuesto dibujo blanco Mil28 Nº 5	25	$163.31	$245
 033-856	Repuesto dibujo blanco Mil28 Nº 6	15	$317.3	$476
 033-803	Repuesto dibujo color Mil28 Nº 3	25	$133.55	$200
 033-805	Repuesto dibujo color Mil28 Nº 5	25	$201.59	$302
 033-806	Repuesto dibujo color Mil28 Nº 6	15	$358.66	$538
-125-010	Repuesto dibujo Éxito Nº 3 blanco	25	$87.23	$131
-125-012	Repuesto dibujo Éxito Nº 3 color	25	$101.71	$153
-125-014	Repuesto dibujo Éxito Nº 5 blanco	25	$123.54	$185
-125-015	Repuesto dibujo Éxito Nº 5 color	25	$147.73	$222
-125-018	Repuesto dibujo Éxito Nº 6 color	25	$299.32	$449
+125-010	Repuesto dibujo Exito Nº 3 blanco	25	$87.23	$131
+125-012	Repuesto dibujo Exito Nº 3 color	25	$101.71	$153
+125-014	Repuesto dibujo Exito Nº 5 blanco	25	$123.54	$185
+125-015	Repuesto dibujo Exito Nº 5 color	25	$147.73	$222
+125-018	Repuesto dibujo Exito Nº 6 color	25	$299.32	$449
 055-955	Repuesto dibujo Luma blanco Nº 3	25	$88.73	$133
 055-956	Repuesto dibujo Luma blanco Nº 5	25	$121.68	$183
 055-957	Repuesto dibujo Luma blanco Nº 6	20	$237.12	$356
 055-960	Repuesto dibujo Luma color Nº 3	25	$99.34	$149
 055-961	Repuesto dibujo Luma color Nº 5	25	$150.15	$225
 055-962	Repuesto dibujo Luma color Nº 6	25	$264.17	$396
-125-210	Repuesto Éxito 24 hojas rayado	30	$242	$363
-125-214	Repuesto Éxito 48 hojas rayado	15	$435.6	$653
-125-220	Repuesto Éxito 480 hs ray-	1	$3789.72	$5685
-125-218	Repuesto Éxito 96 hojas rayado	5	$820.38	$1231
-125-230	Repuesto Éxito margen reforzado 24 hojas rayado	30	$304.92	$457
-125-233	Repuesto Éxito margen reforzado 48 hojas rayado	15	$548.13	$822
-125-249	Repuesto Éxito margen reforzado 480 hs cuadriculado	1	$4962.21	$7443
-125-237	Repuesto Éxito margen reforzado 96 hs cuadriculado	5	$1032.13	$1548
-125-253	Repuesto Éxito margen reforzado A4 48 hojas rayado	10	$944.99	$1417
+125-210	Repuesto Exito 24 hojas rayado	30	$242	$363
+125-214	Repuesto Exito 48 hojas rayado	15	$435.6	$653
+125-220	Repuesto Exito 480 hs ray-	1	$3789.72	$5685
+125-218	Repuesto Exito 96 hojas rayado	5	$820.38	$1231
+125-230	Repuesto Exito margen reforzado 24 hojas rayado	30	$304.92	$457
+125-233	Repuesto Exito margen reforzado 48 hojas rayado	15	$548.13	$822
+125-249	Repuesto Exito margen reforzado 480 hs cuadriculado	1	$4962.21	$7443
+125-237	Repuesto Exito margen reforzado 96 hs cuadriculado	5	$1032.13	$1548
+125-253	Repuesto Exito margen reforzado A4 48 hojas rayado	10	$944.99	$1417
 033-863	Repuesto Mil28 calcar Nº 3	1	$174.53	$262
 033-865	Repuesto Mil28 calcar Nº 5	25	$284.01	$426
 122-027	Repuesto Rivadavia 24 hs con banda rayado	20	$318.63	$478
@@ -550,25 +550,25 @@
 198-351	Roller Uni-Ball Signo c/trans azul	1	$432.61	$649
 228-645	Rollo de etiquetas precio blanco x600	1	$113.34	$170
 228-646	Rollo de etiquetas precio fluo x600	1	$158.72	$238
-193-052	Rollo obra original Húsares 37 x 50 paquete x 10 unidades	1	$1259.15	$1889
-193-055	Rollo obra original Húsares 44 x 50 paquete x 10	1	$1498.5	$2248
-193-058	Rollo obra original Húsares 57 x 30 paquete x 10	1	$1166.39	$1750
-110-719	Rollo para maquina Medoro térmico 57 mm 20 metros x 10 unidades	1	$2938.98	$4408
+193-052	Rollo obra original Husares 37 x 50 paquete x 10 unidades	1	$1259.15	$1889
+193-055	Rollo obra original Husares 44 x 50 paquete x 10	1	$1498.5	$2248
+193-058	Rollo obra original Husares 57 x 30 paquete x 10	1	$1166.39	$1750
+110-719	Rollo para maquina Medoro termico 57 mm 20 metros x 10 unidades	1	$2938.98	$4408
 039-830	Rollo protector pvc cristal 45 cm x 10 metros	1	$2693.84	$4041
-193-065	Rollo térmico Húsares 44 x 50 paquete x 10	1	$3688.42	$5533
-193-062	Rollo térmico Húsares 57 x 30 paquete x 10	1	$2836.45	$4255
+193-065	Rollo termico Husares 44 x 50 paquete x 10	1	$3688.42	$5533
+193-062	Rollo termico Husares 57 x 30 paquete x 10	1	$2836.45	$4255
 166-300	Sacabroches Sifap	1	$474.86	$712
 151-454	Sacapunta Maped boogy display x 75 unidades	1	$3168.63	$4753
-151-509	Sacapunta Maped bulbo con depósito	1	$137.71	$207
+151-509	Sacapunta Maped bulbo con deposito	1	$137.71	$207
 151-504	Sacapunta Maped metal erg 1 Boca	20	$112.91	$169
 115-085	Sacapunta metal 1 cuchilla	24	$60.06	$90
 111-445	Secante cortado Congreso 100 hs 16 x 20	1	$2601.31	$3902
 066-354	Separador cartulina Ape A4 5 pos,color	10	$235.88	$354
 066-356	Separador cartulina Ape oficio 5 pos,color	10	$235.88	$354
 122-100	Separador materia Rivadavia	1	$580.67	$871
-122-098	Separador materia Rivadavia A4 x 6 hj con lengüeta multicolor	1	$761.27	$1142
-039-537	Separador plástico Lama 5 posiciones A4 150 mic	1	$304.94	$457
-178-677	Separador plástico Rideo 5 posiciones escolar clasico	1	$493.45	$740
+122-098	Separador materia Rivadavia A4 x 6 hj con lengueta multicolor	1	$761.27	$1142
+039-537	Separador plastico Lama 5 posiciones A4 150 mic	1	$304.94	$457
+178-677	Separador plastico Rideo 5 posiciones escolar clasico	1	$493.45	$740
 081-471	Silicona liquida Pax transparente 100 ml	1	$671.43	$1007
 081-472	Silicona liquida Pax transparente 250 ml	1	$1424.4	$2137
 081-470	Silicona liquida Pax transparente 30 ml	1	$262.65	$394
@@ -582,15 +582,15 @@
 110-014	Sobre bolsa manila 30 x 40 paquete x 100	1	$3271.84	$4908
 110-015	Sobre bolsa manila 37 x 45 paquete x 100	1	$5111.04	$7667
 125-900	Sobre comercial Medoro 1500 caja x 500 (11,4 x 16,2cms)	1	$3992.62	$5989
-039-528	Sobre con botón Lama A4 fucsia	1	$336	$504
-039-529	Sobre con botón Lama A4 turquesa	1	$336	$504
-039-526	Sobre con botón Lama A5 fucsia	1	$248.4	$373
-039-525	Sobre con botón Lama A5 turquesa	1	$248.4	$373
-039-531	Sobre con botón Lama oficio fucsia	1	$369.56	$554
-039-530	Sobre con botón Lama oficio turquesa	12	$369.56	$554
+039-528	Sobre con boton Lama A4 fucsia	1	$336	$504
+039-529	Sobre con boton Lama A4 turquesa	1	$336	$504
+039-526	Sobre con boton Lama A5 fucsia	1	$248.4	$373
+039-525	Sobre con boton Lama A5 turquesa	1	$248.4	$373
+039-531	Sobre con boton Lama oficio fucsia	1	$369.56	$554
+039-530	Sobre con boton Lama oficio turquesa	12	$369.56	$554
 188-873	Sobre duograf s-33 liso 12 x 19 cm x 25 unidades colores varios	1	$1981.98	$2973
-039-512	Sobre l Office A4 con botón doble	12	$280.65	$421
-039-514	Sobre l Office A5 con botón doble	12	$208.93	$313
+039-512	Sobre l Office A4 con boton doble	12	$280.65	$421
+039-514	Sobre l Office A5 con boton doble	12	$208.93	$313
 111-743	Sobre oficio ingles 63 gramos 1300 caja x 500 unidades	1	$5730.91	$8596
 125-920	Sobre oficio ingles 80 gramos caja/500 1385	1	$5048.99	$7573
 110-106	Sobre para cd con ventana x 250 12,7 x 12,7	1	$4202.09	$6303
@@ -608,13 +608,13 @@
 111-790	Talonario Congreso pagare pesos s/protesto	10	$730.82	$1096
 111-794	Talonario Congreso recibi chico	10	$276.71	$415
 111-792	Talonario Congreso recibi mediano	10	$405.22	$608
-111-793	Talonario Congreso recibi miñon	10	$203.84	$306
-111-799	Talonario Congreso vale por miñon	10	$203.84	$306
-193-812	Talonario Húsares 1812- nota de pedido duplicado	10	$886.36	$1330
-193-813	Talonario Húsares 1813- presupuesto duplicado	10	$886.36	$1330
-193-817	Talonario Húsares 1817- presupuesto	10	$532.58	$799
-193-824	Talonario Húsares 1824- alquiler duplicado	10	$782.36	$1174
-193-825	Talonario Húsares 1825- recibi duplicado químico	10	$782.36	$1174
+111-793	Talonario Congreso recibi minon	10	$203.84	$306
+111-799	Talonario Congreso vale por minon	10	$203.84	$306
+193-812	Talonario Husares 1812- nota de pedido duplicado	10	$886.36	$1330
+193-813	Talonario Husares 1813- presupuesto duplicado	10	$886.36	$1330
+193-817	Talonario Husares 1817- presupuesto	10	$532.58	$799
+193-824	Talonario Husares 1824- alquiler duplicado	10	$782.36	$1174
+193-825	Talonario Husares 1825- recibi duplicado quimico	10	$782.36	$1174
 156-830	Talonario Pb recibo expensas duplicado 001	10	$430.8	$646
 064-111	Talonario presupuesto chico diario duplicado x 50	1	$185.18	$278
 064-112	Talonario presupuesto grande diario duplicado x 50	10	$354.18	$531
@@ -660,4 +660,4 @@
 194-603	Tiza Lady Chalk blanca x 12 unidades	1	$130.92	$196
 194-612	Tiza Lady Chalk color x 12 unidades	1	$220.05	$330
 151-613	Transportador Maped 12 cm 180º	1	$63.36	$95
-143-904	Transportador Pizzini acrílico 10 cm 180° ART6702	25	$45.88	$69
+143-904	Transportador Pizzini acrilico 10 cm 180° ART6702	25	$45.88	$69
