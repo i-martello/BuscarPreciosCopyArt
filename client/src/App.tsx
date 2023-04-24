@@ -14,13 +14,18 @@ interface productoType {
 interface dolarBlueType {
   value_avg: number;
   value_buy: number;
-  value_sell : number;
+  value_sell: number;
 }
 
 const App = () => {
   const [productos, setProductos] = useState<productoType[]>([]);
   const [buscador, setBuscador] = useState<string>("");
-  const [dolarBlue, setDolarBlue] = useState<dolarBlueType>({ value_avg: 0, value_buy: 0, value_sell: 0});
+  const [dolarBlue, setDolarBlue] = useState<dolarBlueType>({
+    value_avg: 0,
+    value_buy: 0,
+    value_sell: 0,
+  });
+  const [archivoActualizar, setArchivoActualizar] = useState<File>()
 
   useEffect(() => {
     (async () => {
@@ -31,14 +36,13 @@ const App = () => {
   }, []);
 
   useEffect(() => {
-    ( async ()=>{
+    (async () => {
       await axios
-      .get("https://api.bluelytics.com.ar/v2/latest")
-      .then((res) => setDolarBlue(res.data.blue))
-      .catch((err) => console.log(err));
+        .get("https://api.bluelytics.com.ar/v2/latest")
+        .then((res) => setDolarBlue(res.data.blue))
+        .catch((err) => console.log(err));
     })();
-  }, [dolarBlue])
-  
+  }, [dolarBlue]);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -48,18 +52,38 @@ const App = () => {
       })
       .then((res) => setProductos(res.data.documentos));
   };
+  
+  const changeUpdate = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if(e.target.files){
+    setArchivoActualizar(e.target.files[0]);
+    }
+    
+  }
+
+  const handleUpdate = async () => {    
+    if(archivoActualizar){
+      console.log("hola");
+      const data = new FormData();
+      data.append('file', archivoActualizar!)
+      await axios.post('http://localhost:3000/api/v1/productos/update', data );
+    }
+  };
 
   return (
     <div>
       <div className="my-5 mx-auto w-[50%]">
-        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
-          Actualizar Precios
-        </label>
-        <input
-          className="block w-full text-sm text-gray-900 border border-gray-300 rounded-lg cursor-pointer bg-gray-50 dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400"
-          id="file_input"
-          type="file"
-        />
+          <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+            Actualizar Precios
+          </label>
+          <div className="flex items-center border-solid border-black">
+            <input
+              className="block w-full text-sm text-gray-900 rounded-lg cursor-pointer bg-gray-50 dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400"
+              id="file_input"
+              type="file"
+              onChange={changeUpdate}
+            />
+            <button type="submit" className="font-bold mx-2" onClick={handleUpdate} >Actualizar</button>
+          </div>
       </div>
       <div>
         <form onSubmit={handleSubmit}>
@@ -126,9 +150,9 @@ const App = () => {
             {productos.map((producto) => {
               return (
                 <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                  <td className="px-6 py-4 w-[250px] h-[250px]">
+                  <td className="px-6 py-4 w-[150px] h-[150px]">
                     <img
-                      className="w-full h-full"
+                      className="w-full h-full object-cover"
                       src={producto.imagen}
                       alt={producto.name}
                     />
@@ -153,20 +177,16 @@ const App = () => {
       <div className="absolute left-[72%] top-[2%]">
         <div className="min-w-0 rounded-lg shadow-xs overflow-hidden bg-white dark:bg-gray-800">
           <div className="p-4 justify-center flex items-center">
-              <div className="p-3 rounded-full text-green-500 dark:text-green-100 bg-green-100 dark:bg-green-500 mr-4">
-                <svg
-                  fill="currentColor"
-                  viewBox="0 0 20 20"
-                  className="w-5 h-5"
-                >
-                  <path
-                    fill-rule="evenodd"
-                    d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z"
-                    clip-rule="evenodd"
-                  ></path>
-                </svg>
-              </div>
-              <div>
+            <div className="p-3 rounded-full text-green-500 dark:text-green-100 bg-green-100 dark:bg-green-500 mr-4">
+              <svg fill="currentColor" viewBox="0 0 20 20" className="w-5 h-5">
+                <path
+                  fill-rule="evenodd"
+                  d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z"
+                  clip-rule="evenodd"
+                ></path>
+              </svg>
+            </div>
+            <div>
               <p className="mb-2 flex items-center text-sm font-medium text-gray-600 dark:text-gray-400">
                 Dolar Blue
               </p>
