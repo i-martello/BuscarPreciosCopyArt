@@ -21,7 +21,7 @@ ctrlProduct.getAll = async (req, res)=>{
     if(req.query.search){
       const { search } = req.query
       const palabras = search.split(' ');
-      const condiciones = palabras.map( palabra => ({name: { $regex: palabra, $options: 'i'}}))
+      const condiciones = palabras.map( palabra => ({name: { $regex: palabra, $options: 'i'}}));
       filtros = { $and: condiciones}
     }
     const productos = await productoSchema.find(filtros).skip(skip).limit(limit);
