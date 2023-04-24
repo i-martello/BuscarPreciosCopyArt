@@ -17,12 +17,14 @@ ctrlProduct.getAll = async (req, res)=>{
   let documentos = []
 
   const obtenerDatos = async ()=>{
-    let filtro = {}
+    let filtros = {}
     if(req.query.search){
       const { search } = req.query
-      filtro = {name: { $regex: search, $options: 'i' }}
+      const palabras = search.split(' ');
+      const condiciones = palabras.map( palabra => ({name: { $regex: palabra, $options: 'i'}}))
+      filtros = { $and: condiciones}
     }
-    const productos = await productoSchema.find(filtro).skip(skip).limit(limit);
+    const productos = await productoSchema.find(filtros).skip(skip).limit(limit);
 
     documentos = documentos.concat(productos);
     skip += limit
