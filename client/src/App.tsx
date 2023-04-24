@@ -152,7 +152,7 @@ const App = () => {
                 <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                   <td className="px-6 py-4 w-[150px] h-[150px]">
                     <img
-                      className="w-full h-full object-cover"
+                      className="w-full h-full"
                       src={producto.imagen}
                       alt={producto.name}
                     />
