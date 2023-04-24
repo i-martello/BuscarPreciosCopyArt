@@ -11,9 +11,16 @@ interface productoType {
   imagen: string;
 }
 
+interface dolarBlueType {
+  value_avg: number;
+  value_buy: number;
+  value_sell : number;
+}
+
 const App = () => {
   const [productos, setProductos] = useState<productoType[]>([]);
   const [buscador, setBuscador] = useState<string>("");
+  const [dolarBlue, setDolarBlue] = useState<dolarBlueType>({ value_avg: 0, value_buy: 0, value_sell: 0});
 
   useEffect(() => {
     (async () => {
@@ -22,6 +29,16 @@ const App = () => {
         .then((res) => setProductos(res.data.documentos));
     })();
   }, []);
+
+  useEffect(() => {
+    ( async ()=>{
+      await axios
+      .get("https://api.bluelytics.com.ar/v2/latest")
+      .then((res) => setDolarBlue(res.data.blue))
+      .catch((err) => console.log(err));
+    })();
+  }, [dolarBlue])
+  
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -34,6 +51,16 @@ const App = () => {
 
   return (
     <div>
+      <div className="my-5 mx-auto w-[50%]">
+        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+          Actualizar Precios
+        </label>
+        <input
+          className="block w-full text-sm text-gray-900 border border-gray-300 rounded-lg cursor-pointer bg-gray-50 dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400"
+          id="file_input"
+          type="file"
+        />
+      </div>
       <div>
         <form onSubmit={handleSubmit}>
           <label className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">
@@ -100,7 +127,11 @@ const App = () => {
               return (
                 <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                   <td className="px-6 py-4 w-[250px] h-[250px]">
-                    <img className="w-full h-full" src={producto.imagen} alt={producto.name} />
+                    <img
+                      className="w-full h-full"
+                      src={producto.imagen}
+                      alt={producto.name}
+                    />
                   </td>
                   <td
                     scope="row"
@@ -110,12 +141,41 @@ const App = () => {
                   </td>
                   <td className="px-6 py-4 text-gray-900">{producto.name}</td>
                   <td className="px-6 py-4 text-gray-900">{producto.costo}</td>
-                  <td className="px-6 py-4 font-bold text-gray-900">{producto.precio}</td>
+                  <td className="px-6 py-4 font-bold text-gray-900">
+                    {producto.precio}
+                  </td>
                 </tr>
               );
             })}
           </tbody>
         </table>
+      </div>
+      <div className="absolute left-[72%] top-[2%]">
+        <div className="min-w-0 rounded-lg shadow-xs overflow-hidden bg-white dark:bg-gray-800">
+          <div className="p-4 justify-center flex items-center">
+              <div className="p-3 rounded-full text-green-500 dark:text-green-100 bg-green-100 dark:bg-green-500 mr-4">
+                <svg
+                  fill="currentColor"
+                  viewBox="0 0 20 20"
+                  className="w-5 h-5"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
+              </div>
+              <div>
+              <p className="mb-2 flex items-center text-sm font-medium text-gray-600 dark:text-gray-400">
+                Dolar Blue
+              </p>
+              <p className="text-lg font-semibold text-gray-700 dark:text-gray-200">
+                $ {dolarBlue.value_sell}
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
