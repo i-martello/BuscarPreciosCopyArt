@@ -51,6 +51,7 @@ const App = () => {
         params: { search: buscador },
       })
       .then((res) => setProductos(res.data.documentos));
+      setBuscador('');
   };
   
   const changeUpdate = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -115,6 +116,7 @@ const App = () => {
               placeholder="Buscar"
               required
               onChange={(e) => setBuscador(e.target.value)}
+              value={buscador}
             />
             <button
               type="submit"
