@@ -8,6 +8,7 @@ interface productoType {
   name: string;
   costo: string;
   precio: string;
+  precioDesc: string;
   imagen: string;
 }
 
@@ -25,7 +26,7 @@ const App = () => {
     value_buy: 0,
     value_sell: 0,
   });
-  const [archivoActualizar, setArchivoActualizar] = useState<File>()
+  const [archivoActualizar, setArchivoActualizar] = useState<File>();
 
   useEffect(() => {
     (async () => {
@@ -51,40 +52,45 @@ const App = () => {
         params: { search: buscador },
       })
       .then((res) => setProductos(res.data.documentos));
-      setBuscador('');
+    setBuscador("");
   };
-  
-  const changeUpdate = (e: React.ChangeEvent<HTMLInputElement>) => {
-    if(e.target.files){
-    setArchivoActualizar(e.target.files[0]);
-    }
-    
-  }
 
-  const handleUpdate = async () => {    
-    if(archivoActualizar){
+  const changeUpdate = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.files) {
+      setArchivoActualizar(e.target.files[0]);
+    }
+  };
+
+  const handleUpdate = async () => {
+    if (archivoActualizar) {
       console.log("hola");
       const data = new FormData();
-      data.append('file', archivoActualizar!)
-      await axios.post('http://localhost:3000/api/v1/productos/update', data );
+      data.append("file", archivoActualizar!);
+      await axios.post("http://localhost:3000/api/v1/productos/update", data);
     }
   };
 
   return (
     <div>
       <div className="my-5 mx-auto w-[50%]">
-          <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
-            Actualizar Precios
-          </label>
-          <div className="flex items-center border-solid border-black">
-            <input
-              className="block w-full text-sm text-gray-900 rounded-lg cursor-pointer bg-gray-50 dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400"
-              id="file_input"
-              type="file"
-              onChange={changeUpdate}
-            />
-            <button type="submit" className="font-bold mx-2" onClick={handleUpdate} >Actualizar</button>
-          </div>
+        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+          Actualizar Precios
+        </label>
+        <div className="flex items-center border-solid border-black">
+          <input
+            className="block w-full text-sm text-gray-900 rounded-lg cursor-pointer bg-gray-50 dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400"
+            id="file_input"
+            type="file"
+            onChange={changeUpdate}
+          />
+          <button
+            type="submit"
+            className="font-bold mx-2"
+            onClick={handleUpdate}
+          >
+            Actualizar
+          </button>
+        </div>
       </div>
       <div>
         <form onSubmit={handleSubmit}>
@@ -146,6 +152,9 @@ const App = () => {
               <th scope="col" className="px-6 py-3">
                 Precio
               </th>
+              <th scope="col" className="px-6 py-3">
+                Descuento
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -169,6 +178,9 @@ const App = () => {
                   <td className="px-6 py-4 text-gray-900">{producto.costo}</td>
                   <td className="px-6 py-4 font-bold text-gray-900">
                     {producto.precio}
+                  </td>
+                  <td className="px-6 py-4 text-gray-900">
+                    {producto.precioDesc}
                   </td>
                 </tr>
               );

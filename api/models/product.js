@@ -5,6 +5,7 @@ const productoSchema = new mongoose.Schema({
   name: {type: String, required: true},
   costo: {type: String, required: true},
   precio: {type: String, required: true},
+  precioDesc: {type: String, required: true},
   imagen: {type: String}
 }, { versionKey: false })
 
