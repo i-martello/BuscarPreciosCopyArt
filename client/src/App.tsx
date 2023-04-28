@@ -66,7 +66,7 @@ const App = () => {
       console.log("hola");
       const data = new FormData();
       data.append("file", archivoActualizar!);
-      await axios.post("http://localhost:3000/api/v1/productos/update", data);
+      await axios.post("https://buscador-copyart-api.vercel.app/api/v1/productos/update", data);
     }
   };
 
