@@ -63,7 +63,6 @@ const App = () => {
 
   const handleUpdate = async () => {
     if (archivoActualizar) {
-      console.log("hola");
       const data = new FormData();
       data.append("file", archivoActualizar!);
       await axios.post("https://buscador-copyart-api.vercel.app/api/v1/productos/update", data);

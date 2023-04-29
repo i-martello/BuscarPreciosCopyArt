@@ -31,7 +31,6 @@ const upload = multer({
   storage: multer.diskStorage({
     destination: rutaUploads,
     filename: (req, file, cb) => {
-      deleteFile();
       const fileExtension = path.extname(file.originalname);
       const fileName = file.originalname.split(fileExtension)[0];
       const excelName = `${fileName}-${Date.now()}${fileExtension}`
