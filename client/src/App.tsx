@@ -31,7 +31,7 @@ const App = () => {
   useEffect(() => {
     (async () => {
       await axios
-        .get("https://buscador-copyart-api.vercel.app/api/v1/productos")
+        .get("https://buscar-precios-copy-art.vercel.app/api/v1/productos")
         .then((res) => setProductos(res.data.documentos));
     })();
   }, []);
@@ -48,7 +48,7 @@ const App = () => {
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     await axios
-      .get("https://buscador-copyart-api.vercel.app/api/v1/productos", {
+      .get("https://buscar-precios-copy-art.vercel.app/api/v1/productos", {
         params: { search: buscador },
       })
       .then((res) => setProductos(res.data.documentos));
@@ -65,7 +65,7 @@ const App = () => {
     if (archivoActualizar) {
       const data = new FormData();
       data.append("file", archivoActualizar!);
-      await axios.post("https://buscador-copyart-api.vercel.app/api/v1/productos/update", data);
+      await axios.post("https://buscar-precios-copy-art.vercel.app/api/v1/productos/update", data);
     }
   };
 
