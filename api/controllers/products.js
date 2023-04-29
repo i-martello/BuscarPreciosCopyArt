@@ -1,5 +1,4 @@
 const productoSchema = require('../models/product');
-const { search } = require('../routes/products');
 
 const ctrlProduct = {}
 
