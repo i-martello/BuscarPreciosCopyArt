@@ -65,7 +65,7 @@ const App = () => {
     if (archivoActualizar) {
       const data = new FormData();
       data.append("file", archivoActualizar!);
-      await axios.post("https://buscar-precios-copy-art.vercel.app/api/v1/productos/update", data);
+      await axios.post("http://localhost:3000/api/v1/productos/update", data);
     }
   };
 
