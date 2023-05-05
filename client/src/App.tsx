@@ -37,10 +37,14 @@ const App = () => {
   }, []);
 
   useEffect(() => {
+    const actualizarDolar = (dolar: any) => {
+      setDolarBlue(dolar)
+      
+    }
     (async () => {
       await axios
         .get("https://api.bluelytics.com.ar/v2/latest")
-        .then((res) => setDolarBlue(res.data.blue))
+        .then((res) => actualizarDolar(res.data.blue))
         .catch((err) => console.log(err));
     })();
   }, [dolarBlue]);
